@@ -1,6 +1,6 @@
 ---
 apiVersion: apps/v1
-nginx : krmp-d2hub-idock.9rum.cc/goorm/nginx
+nginx: krmp-d2hub-idock.9rum.cc/goorm/nginx
 metadata:
   name: nginx-deployment
 spec:
